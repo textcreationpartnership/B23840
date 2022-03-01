@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposition demonstrated· That mill'd-lead is a better covering for churches, houses, &amp;c. more durable, and above 20 per cent. cheaper than cast-lead; supposing that 16s. and this but 13s.6d. a hundred.</title>
+            <author>Hale, Charles, Mr.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23840</idno>
+            <idno type="STC">Wing H221</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.7[123]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.7[125]</idno>
+            <idno type="STC">ESTC R226292</idno>
+            <idno type="EEBO-CITATION">99886625</idno>
+            <idno type="PROQUEST">ocm99886625</idno>
+            <idno type="VID">187554</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B23840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187554)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C8:1[126]; C8:1[128])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposition demonstrated· That mill'd-lead is a better covering for churches, houses, &amp;c. more durable, and above 20 per cent. cheaper than cast-lead; supposing that 16s. and this but 13s.6d. a hundred.</title>
+                  <author>Hale, Charles, Mr.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed March 26th. 1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Charles Hale. Cf. Wing (CD-Rom, 1996).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lead industry and trade --  England --  Early works to 1800.</term>
+               <term>Sheet-lead --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187554:1" rendition="simple:additions"/>
+            <head>A PROPOSITION DEMONSTRATED.</head>
+            <head>That <hi>MILL'D LEAD</hi> is a better <hi>Covering</hi> for <hi>Churches, Houſes, &amp;c.</hi> more durable, and above <hi>20 per Cent.</hi> cheaper than <hi>CAST-LEAD;</hi> Suppoſing that 16 <hi>s.</hi> and this but 13 <hi>s. 6 d.</hi> a Hundred.</head>
+            <p>TO prove this only two <hi>Axioms,</hi> or moral Truths (which will need no probation) are required to be granted, by which the Matters of Fact evident in the Caſe may be examined.</p>
+            <list>
+               <item>
+                  <hi>Axiom.</hi> 1. That the Heat of the <hi>Sun</hi> being allowed to be the common Cauſe of drawing, and conſequently of cockling and cracking a <hi>Lead-Covering,</hi> the Beams thereof, which fall with <hi>equal</hi> force upon an <hi>unequal</hi> Body (ſuch as a Sheet of <hi>Caſt-Lead</hi> is) muſt draw the <hi>thinner</hi> and weaker parts more than the <hi>thicker</hi> and ſtronger.</item>
+               <item>
+                  <hi>Axiom.</hi> 2. That if a <hi>Plumber,</hi> or at leaſt-wiſe two of the Chief <hi>Maſter-Plumbers</hi> in <hi>London,</hi> joining together, ſhall (upon a Wager, or Tryal of Skill, wherein their Intereſt is highly concerned) undertake to caſt <hi>Sheets</hi> of <hi>Lead,</hi> not <hi>thinner</hi> throughout the <hi>whole Sheet,</hi> than the Size required, and very little <hi>thicker</hi> in any place, they will caſt as well, and as near <hi>equality,</hi> and the Size given as they can; and that the <hi>Sheets</hi> caſt by them in ſuch a Tryal, or at leaſt in two ſuch Tryals, ought to be taken for the greateſt certainty, Standard, and <hi>beſt Caſting</hi> any <hi>Plumber</hi> can pretend to; or at leaſt-wiſe that ſuch Caſting is much better than what any Cuſtomer in the common courſe of their Trade can expect from them. This being granted.</item>
+            </list>
+            <p>From the Firſt <hi>Axiome</hi> it follows, That if the <hi>Plumber</hi> could caſt exactly equal to the <hi>Thinner</hi> parts of his <hi>Sheet,</hi> his <hi>Caſt-Lead</hi> would make a better <hi>Co<g ref="char:EOLhyphen"/>vering</hi> than to be thicker in one place than in another; for that the <hi>thicker</hi> and <hi>ſtronger</hi> parts reſiſting the <hi>Sun-beams</hi> more than the <hi>thinner</hi> and <hi>weaker,</hi> thoſe parts muſt ſtay behind whilſt the <hi>weaker</hi> move; which Motion by degrees cockles and cracks the <hi>Sheet;</hi> whereas if the <hi>Sheet</hi> were exactly equal as the <hi>Mill'd-Lead</hi> is, it would by the <hi>equal force</hi> falling thereon, move or ſtay <hi>equally</hi> as the <hi>Mill'd-Lead</hi> does, where no other Cauſe or Accident occurs: Here note al<g ref="char:EOLhyphen"/>ſo, that this exceſs of <hi>thickneſs</hi> in ſome places, is not only unneceſſarily paid for, but it helps forward the ruin of the reſt.</p>
+            <p>
+               <note place="margin">Mill'd-Lead <hi>Better.</hi>
+               </note>Wherefore <hi>Milll'd-Lead,</hi> which is exactly <hi>equal,</hi> tho no <hi>thicker</hi> than the <hi>thinner</hi> parts of a <hi>Caſt-Sheet,</hi> muſt be allowed to be a <hi>better,</hi> and more durable <hi>Covering</hi> than <hi>Caſt-Lead.</hi>
+            </p>
+            <q>Obſ. <hi>The</hi> Mill'd-Lead Company <hi>having in the Year</hi> 1678. <hi>made a Propoſal to the then</hi> Navy-Board, <hi>to make their Scuppers of</hi> Mill'd-Lead, <hi>one Mr.</hi> Par<g ref="char:EOLhyphen"/>ſons <hi>a</hi> Plumber <hi>they had employ'd in that Work, oppoſed it; pretending, That altho their</hi> Caſt-Lead <hi>was not exactly</hi> equal, <hi>yet the</hi> inequality <hi>was ſo incon<g ref="char:EOLhyphen"/>ſiderable, that the</hi> Mill'd-Lead <hi>Scuppers being propoſed at</hi> 4 s. <hi>a Hundred more than theirs, they would be much dearer to the King. The</hi> Board <hi>then asked him, What Allowance of</hi> inequality <hi>he required? he anſwer'd, Not above</hi> half a Pound <hi>in</hi> ten: <hi>Whereupon they ordered each to make</hi> 36 <hi>Scuppers of three ſeveral ſizes and</hi> thickneſs, viz. <hi>of</hi> 8 <hi>pound,</hi> 10 <hi>pound, and</hi> 12 <hi>pound to the foot ſquare; with caution to the</hi> Plumber, <hi>That his</hi> Lead <hi>ſhould not be</hi> thin<g ref="char:EOLhyphen"/>ner <hi>in the</hi> thinneſt parts <hi>than their Demand, as little</hi> thicker <hi>any where as he could: Which he undertook; and both ſides having ſent in their Scuppers, the</hi> Mill'd-Lead, <hi>which could eaſily be conformable to any</hi> thickneſs <hi>deſired, weighed but</hi> 8 <hi>hundred</hi> 1 <hi>quarter</hi> 36 <hi>pound; whereas the</hi> Caſt-Lead <hi>Scuppers weiged</hi> 12 <hi>hundred</hi> 3 <hi>quarters</hi> 10 <hi>pound, about</hi> ⅓ <hi>part inſtead of</hi> 1/20 <hi>more: This ſo much exceeding his <g ref="char:V">Ʋ</g>ndertaking, and he pretending careleſſneſs of Ser<g ref="char:EOLhyphen"/>vants, and other Excuſes, the Board ordered a ſecond Tryal upon (double the Number)</hi> 72 Scuppers; <hi>when he took to his aſſiſtance one Mr.</hi> Whitehall, <hi>another</hi> Maſter-Plumber, <hi>who made part thereof; and it cannot be imagined but theſe</hi> Plumbers <hi>now uſed all their Skill and Care; notwithſtanding which, the weight of their whole</hi> 72 <hi>was</hi> 25 <hi>hundred</hi> 1 <hi>quarter</hi> 12 <hi>pound; whereas the</hi> 72 Mill'd Lead <hi>Scuppers weighed but</hi> 16 <hi>hundred</hi> 3 <hi>quarters</hi> 10 <hi>pound; about the ſame proportion with the former; which at</hi> 26 s. <hi>per hundred (the</hi> Caſt Lead <hi>Scuppers being then</hi> 22 s.) <hi>was above</hi> 27 per cent <hi>cheaper to the King. This appears more at large in a</hi> Memorial <hi>preſented to the</hi> Navy-Board <hi>in</hi> May 1690. <hi>and</hi> Printed page 115 <hi>in a Book lately publiſhed of</hi> 18 d. <hi>price, treat<g ref="char:EOLhyphen"/>ing (amongſt other new Inventions and Improvements of the</hi> Mill'd-Lead <hi>for</hi> ſheathing Ships, &amp;c. <hi>and its Excellency in preference to</hi> Caſt-Lead <hi>for all other purpoſes whatſoever, and the</hi> Plumbers <hi>Suggeſtions, decrying the ſame, therein proved, to be idle, ſcandalous and falſe.</hi>
+            </q>
+            <p>
+               <hi>Divers other</hi> Tryals <hi>of other kinds were alſo ſince made by direction of the preſent</hi> Navy-Board, <hi>with which they being further ſatisfied, contracted for the</hi> Mill'd-Lead <hi>in general, for all ſervices of Their Majeſties</hi> Yards; <hi>declaring in their Inſtructions to the Officers, That they had (amongſt other Faults) found up<g ref="char:EOLhyphen"/>on ſeveral</hi> Tryals <hi>made, that the</hi> Caſt-Lead <hi>was ſo</hi> unequal <hi>and</hi> uncertain, <hi>they ould not have what they demanded, nor depend thereupon for Their Majeſties Service, as they could do upon the</hi> Mill'd-Lead; <hi>and therefore ordered them to demand that only for the future, leaving their old</hi> Plumbers <hi>their</hi> Lead <hi>and</hi> Solder <hi>totally aſide.</hi>
+            </p>
+            <p>From the Second <hi>Axiome,</hi> and thoſe two <hi>Tryals</hi> above mentioned, it plainly appears that the <hi>Plumbers</hi> (let them, or their Friends pretend what they will) cannot caſt within ⅓ <hi>equal</hi> to the Size given th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the <hi>whole Sheet:</hi> Wherefore (it having been proved above, that <hi>Mill'd-Lead</hi> is for that Reaſon at leaſt ⅓ better, and will in uſe go ⅓ further) whatſoever the Price of <hi>Mill'd-Lead</hi> be leſs than ⅓ more than <hi>Caſt-Lead,</hi> it muſt be granted that <hi>Mill'd-Lead</hi> is ſo much the <hi>cheaper.</hi>
+            </p>
+            <p>Now the Price of <hi>Mill'd-Lead,</hi>
+               <note place="margin">Mill'd Lead <hi>Cheaper.</hi>
+               </note> at the Rates above ſuppoſed, being but about ⅙ more, the ſame is above 20 <hi>per cent cheaper,</hi> as well as <hi>better</hi> than <hi>Caſt-Lead,</hi> which was to be demonſtrated.</p>
+            <list>
+               <item>
+                  <hi>Cast-Lead</hi> 3 <hi>hundred</hi> at 13 <hi>s.</hi> 6 <hi>d.</hi> comes to 405 <hi>s.</hi>—405.85::100. 209.</item>
+               <item>
+                  <hi>Mill'd-Lead</hi> 2 <hi>hundred</hi> at 16 comes to—32/85—32.85::100. 265.</item>
+            </list>
+            <p>
+               <hi>But if ſome are unwilling to grant that</hi> Mill'd-Lead <hi>is better, and will go farther than</hi> Caſt-Lead, <hi>in ſo great a Degree as</hi> ⅓, <hi>here's Latitude enough, let them al<g ref="char:EOLhyphen"/>low half as much, and take</hi> ⅙ <hi>or any Degree under</hi> ⅛ (<hi>the</hi> Plumbers <hi>preſent uſual Price, being</hi> 14 s. <hi>a</hi> hundred;) <hi>within which Limit, or Proportion of</hi> Ine<g ref="char:EOLhyphen"/>quality, <hi>ſure they will be ſatisfied that</hi> Mill'd-Lead <hi>is enough better and cheaper (beſides the benefit of a more beautiful and lighter Covering) to recommend it to their <g ref="char:V">Ʋ</g>ſe, it being one conſiderable advantage alſo, that they are ſure they ſhall have the</hi> Mill'd-Lead <hi>ſmooth and ſound, and of what</hi> thickneſs <hi>they demand; whereas the</hi> Plumber <hi>can furniſh them but by gueſs, and that liable to concealed Blow-holes, and Sand-holes, as the</hi> Plumbers <hi>call them, which cannot be diſco<g ref="char:EOLhyphen"/>vered, but where they happen, muſt alſo haſten the decay; and if they caſt it ſo, as to bring the Charge leſs, or equal to the Price of the</hi> Mill'd-Lead, <hi>the Cuſtomer (if he carefully examines it) will find it to be ſo much</hi> thinner <hi>than the</hi> Mill'd-Lead <hi>in ſome places, as well as</hi> thicker <hi>in others, as to render that Covering at leaſt</hi> 20 per cent <hi>worſe; as is above demonſtrated.</hi>
+            </p>
+            <p>
+               <hi>As to the</hi> Plumbers <hi>Pretence, That their Covering being heavier, it will yield more Money again when both come to be ſtript: It is not worth the anſwering, when it ſhall be conſidered, that Mr.</hi> Hale <hi>offers in his Advertiſement (Publiſhed by it ſelf, and Printed alſo in the Book above mentioned p.</hi> 93.) <hi>to</hi> Keep <hi>any</hi> Mill'd-Lead <hi>Covering, of</hi> 100 l. <hi>value, that he lays but of</hi> 7 <hi>pound to the Foot in good repair, for</hi> 41 <hi>Years (to name a Term certain and ſufficient, tho it muſt probably laſt much longer) for</hi> 5 s. <hi>a Year: And that the different value of the Old</hi> Lead, <hi>after</hi> 41 <hi>Years, (if the</hi> Caſt Lead <hi>ſhould be ſuppoſed to lie ſo long) to be paid in ready Money is not worth ſpeaking of, if no regard were had to the dammage a Houſe may ſuſtain by the leaking of a</hi> Caſt-Lead <hi>Covering, and charge of patching it with</hi> Solder <hi>in the mean time.</hi>
+            </p>
+            <p>The <hi>Book</hi> above mentioned may be had at the <hi>Bookſellers</hi> following; <hi>viz.</hi> At Mr. <hi>Henſmans</hi> Shop in <hi>Weſtminſter-Hall,</hi> Mr. <hi>Heyrick</hi> at <hi>Grays-Inn Gate,</hi> Mr. <hi>Collin</hi>'s Shop by the <hi>Middle-Temple-Gate,</hi> The <hi>Harp</hi> in St. <hi>Paul's-Church Yard,</hi> The <hi>Legg</hi> and <hi>Star</hi> overagainſt the <hi>Royal Ex<g ref="char:EOLhyphen"/>change,</hi> And at Mr. <hi>Mount</hi>'s Shop near the <hi>Poſtern-Gate</hi> on <hi>Tower-Hill,</hi> And the <hi>Mill'd-Lead</hi> it ſelf of any thickness, from a pound in a Foot, to 20 or more, for lyning of <hi>Casks</hi> or <hi>Boxes, Brewers Backs, Siſterns, Gutters, Pipes, Crowning</hi> of <hi>Vaults</hi> to <hi>prevent Leaking,</hi> and for <hi>Cover<g ref="char:EOLhyphen"/>ing</hi> of <hi>Signs,</hi> to paint on, as the Mill'd-Lead-Sign is, or any purpoſe whatſoever, where <hi>Sheet-Lead</hi> may be uſed as well as <hi>Covering Houſes,</hi> and many other things that <hi>Caſt-Lead</hi> cannot be applyed to. This <hi>Lead</hi> is of the uſual Breadth of 3½ Foot, and may be had above twice as long as any <hi>Plumber</hi> pretends to caſt, if need require, to ſave drips, and comply with the Length of Covering. The preſent Rates being for 6 <hi>l. per</hi> Foot, and all thicker at 16 <hi>s.</hi> a hundred; and for each pound in a Foot ſquare thinner 12 <hi>d.</hi> a hundred more, at the <hi>Mill,</hi> or <hi>Wa<g ref="char:EOLhyphen"/>ter carriage</hi> paid to any place upon the River about <hi>London,</hi> if the Quantity be conſiderable but for ſmall quantities under a Tun the Cuſto<g ref="char:EOLhyphen"/>mer pays, Boat Hire, or in lieu of Carriage 6 <hi>d.</hi> a hundred more at the <hi>Shop,</hi> and for odd Pounds under a quarter 2 <hi>d.</hi> and 2 <hi>d. half-penny</hi> the thinner ſort, and <hi>Solder</hi> alſo at 6 <hi>d.</hi> a pound, which the <hi>Plumbers</hi> by Combination have heitherto kept up at 9 <hi>d.</hi>
+            </p>
+            <p>At the <hi>Lead-Mill</hi> at <hi>Debtford,</hi> or at the <hi>Mill'd-Lead Sign</hi> in <hi>Aurange-ſtreet</hi> by <hi>Red-Lyon-Square,</hi> where Mr. <hi>Hale</hi> now lives, who can furniſh the Cuſtomers with able <hi>Plumbers</hi> to work his <hi>Lead</hi> as there is occaſion.</p>
+            <p>This Printed Paper may be had there alſo, and his printed Advertiſement above mentioned, or at any of the <hi>Book<g ref="char:EOLhyphen"/>ſellers</hi> Shops above named, gratis.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed</hi> March 26th. 1694.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
